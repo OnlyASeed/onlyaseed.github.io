@@ -53,8 +53,8 @@ img { max-width: 100%; }
 
 .loader-img {
 	position: absolute;
-	left: 50%;
-	top: 50%;
+	left: 100%;
+	top: 100%;
 	margin: -30px 0 0 -30px;
 	width: 900px;
 	height: 900px;
